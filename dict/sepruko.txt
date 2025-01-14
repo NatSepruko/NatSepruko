@@ -1,2 +1,8 @@
 NAT		Nat		nat
 SEPRUKO	Sepruko	sepruko
+
+# products
+GCC				gcc
+				komodo
+				solios
+WSL				wsl
