@@ -8,7 +8,7 @@
 		"editor.tabSize": 2
 	},
 	"files.associations": {
-		"dict/**.txt": "ignore",
+		"**/dict/**.txt": "ignore",
 		"CODEOWNERS": "ignore",
 		"cspell.config.json": "jsonc"
 	},
